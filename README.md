@@ -108,6 +108,13 @@ However, our game has a limitation where the game can only save the newest progr
 
 Players can exit the game at the start of the game and the ending of boss fight. The game will prompt the user whether do they want to exit the game or continue another round.
 
+### 4. Checking input validation
+
+The game has an input validation code that will check whether the player has inputted the right integer into the input section. if the input is invalid, the program will issue an error message displaying that is not a valid input.
+
+
+
+
 ## (b)	Multiple Menu Pages 
 
 Our game used multiple menu pages to create an interactive and fun gameplay session where the players can make their own choice to find the ending they deserved. The follorwing are a few examples of menus pages in our game
