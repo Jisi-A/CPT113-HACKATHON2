@@ -214,6 +214,8 @@ The main idea of how the concept works is by ensuring when a lot of functions or
 
 So, we have also implemented the usage of encapsulation within our program. An example of it can be seen in Class IntList. In this class, there are two private members defined, they are struct ListNode and pointer head. Since struct ListNode is a private member, it details are hidden from external functions. This function can only be manipulated and accessed through the member functions of the IntList class. 
 
+![Encapsulation concept](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/35a8b931-b97f-4c9f-b5da-4722aabca4d1)
+
 ## (c)	Inheritance
 Another object-oriented concept we have implemented is the inheritance concept. The brief definition of this concept is the derived class will inherit the characteristic and functionality of the parent class. This establishes a hierarchical relationship between the two parent-child classes. 
 The derived or child class will inherit all the non-private attributes of the parent class. The inheritance concept is useful as it promotes code usability and reduces the need to type out the same code for another class. 
