@@ -1,4 +1,4 @@
-![Main Menu page](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/cfa00f1f-c018-4fde-97d2-4fc4e1a2220a)# CPT113-HACKATHON2
+![Jester (2 option)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/6ebce563-c49d-4048-b446-3316cf411c36)![Main Menu page](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/cfa00f1f-c018-4fde-97d2-4fc4e1a2220a)# CPT113-HACKATHON2
 ### Group 32
 
 Documentation Requirements
@@ -244,5 +244,25 @@ We have utilized this concept within our program. This can be seen in the class 
 
 ### 5.	The Rusty Swordsmith (Main Dialogue)
 ![Rusty (Main Dialogue)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/001fa532-cda5-4fb1-8393-cbc9818f0a61)
+
+### 5.	(a) The Rusty Swordsmith (1 option) 
+![Rusty (1 option)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/eea5b9b6-f577-4822-8420-9388d508b197)
+
+### 5.	(b) The Rusty Swordsmith (2 option)
+![Rusty (2 option)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/ddac8c94-3591-487c-bd37-bd583a04eeff)
+
+### 6.	Saving Game Progress
+![Saving game progress](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/7b40aee7-a914-4f6d-9e62-2052d3dbb710)
+
+### 7.	The Jester's Joke Emporium (Main Dialogue)
+![Jester (Main Dialogue)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/daf60c11-77e2-4472-b5db-09ea8fb2eef5)
+
+### 7.	(a) Jester's Joke Emporium (1 option)
+![Jester (1 option)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/32f086b6-fe42-4da8-a125-b398caba9956)
+
+### 7. (b) Jester's Joke Emporium (2 option)
+![Jester (2 option)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/d9f9fec1-8932-43e9-b6ed-aca7b6d0372d)
+
+
 
 
