@@ -1,4 +1,4 @@
-![Jester (2 option)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/6ebce563-c49d-4048-b446-3316cf411c36)![Main Menu page](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/cfa00f1f-c018-4fde-97d2-4fc4e1a2220a)# CPT113-HACKATHON2
+# CPT113-HACKATHON2
 ### Group 32
 
 Documentation Requirements
