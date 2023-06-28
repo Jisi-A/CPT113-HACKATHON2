@@ -118,7 +118,7 @@ The game has an input validation code that will check whether the player has inp
 
 ## (b)	Multiple Menu Pages 
 
-Our game used multiple menu pages to create an interactive and fun gameplay session where the players can make their own choice to find the ending they deserved. The follorwing are a few examples of menus pages in our game
+Our game used multiple menu pages to create an interactive and fun gameplay session where the players can make their own choice to find the ending they deserved. The following are a few examples of menus pages in our game
 
 ### 1.	Opening Menu page
 
@@ -130,8 +130,7 @@ This is the opening page the player will see upon starting our game. The functio
 
 •	3rd option: Quit game
 
-
-![Opening Menu Page](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/e429af83-f8e8-4cc9-a47b-76719b8f8f5c)
+![Opening Menu Page](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/13ca0257-e8ba-4b11-86b6-df5a938e3c55)
 
 ### 2. Tutorial page
 
@@ -140,7 +139,7 @@ This page will give a brief guideline of the quest in the game. And will introdu
 The game will prompt if the user wants to see the tutorial menu. If they do not wish to, they can skip if part. The diagram below shows the option to skip the tutorial menu.
 
 
-![Tutorial page](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/b7265e52-d7f0-4616-aacb-2127122d7338)
+![Tutorial page](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/fc085a1d-2e7d-4835-aa7d-21333884e37a)
 
 
 ### 3.	Game's Main Menu Page
@@ -148,7 +147,8 @@ The game will prompt if the user wants to see the tutorial menu. If they do not 
 This page will first display the details of the character like day, character’s name, health, number of coins, and AP the player has for the day. Then, the page will show all the possible choices our players can perform throughout the entire game. This is the main menu page the players will be seeing quite frequently throughout the game. The player has a total of 6 options in the game. 
 
 
-![Main Menu page](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/61c9b4e7-ed42-4aaa-9127-75c195f36762)
+![Main Menu page](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/ad938fb1-9942-4235-be0d-679fd6928f7f)
+
 
 
 The first 3 options are to allow the player to explore the different shops and cabins in the game. 
@@ -246,7 +246,7 @@ We have succeeded in using abstraction in our program by implementing the usage 
 
 Examples of abstraction can be seen in the Class IntList and Class Game we have created in our program. In Class IntList, we defined all the characteristics of our linked list, each individual node, and the functions our linked list can perform. Functions of the linked list like appending a node, displaying a list and deleting a linked list. In Class Game, we define the attributes of the AP variable and other necessary functions of the game like startGame(), loadDay(), talkedJester(), adventure(), and embark(). These are a few examples of the functions define in this class. 
 
-![Abstraction concept](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/d5501f60-1acf-4643-801c-9bc7f3a0897a)
+![Abstraction concept](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/00fc01aa-cb6f-4db2-86f7-9c2e4068bd6f)
 
 ## (b)	Encapsulation
 
@@ -256,7 +256,7 @@ The main idea of how the concept works is by ensuring when a lot of functions or
 
 So, we have also implemented the usage of encapsulation within our program. An example of it can be seen in Class IntList. In this class, there are two private members defined, they are struct ListNode and pointer head. Since struct ListNode is a private member, it details are hidden from external functions. This function can only be manipulated and accessed through the member functions of the IntList class. 
 
-![Encapsulation concept](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/298dc5b8-031f-4a0c-8bb3-16b6fa15f1bf)
+![Encapsulation concept](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/f4dede9a-47e6-4c73-883b-9e52bc7c11ca)
 
 ## (c)	Inheritance
 Another object-oriented concept we have implemented is the inheritance concept. The brief definition of this concept is the derived class will inherit the characteristic and functionality of the parent class. This establishes a hierarchical relationship between the two parent-child classes. 
@@ -264,7 +264,7 @@ The derived or child class will inherit all the non-private attributes of the pa
 
 We have utilized this concept within our program. This can be seen in the class game, where this class has inherited its properties from the parent class, class player. This means that Class game can utilized all the functions that has been defined in the class player. For example, the isEmpty(), displayList(), getHealth(), and the isTalked_swordsmith function.
 
-![Inheritance concept](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/a03e999f-8fc3-48f3-bb68-c69ec9d3dce4)
+![Inheritance concept](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/807276e9-afb0-4e3c-86dd-f3da980b2e6f)
 
 # 5.	How linked lists play a role in our game
 
