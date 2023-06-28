@@ -219,6 +219,9 @@ The flow of the story is in your hand. Do not scare to make mistakes in the game
 
 ![repeat](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/116088800/d7013134-95f0-45d3-b4c0-ed672d459d54)
 
+### Game Guide
+
+The game guide is provided in the last part of this file to prevent spoiler.
 
 # 4. How object-oriented concepts were used to develop your game.
 
