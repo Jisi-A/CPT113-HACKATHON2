@@ -118,3 +118,22 @@ The game will prompt if the user wants to see the tutorial menu. If they do not 
 
 
 ![Tutorial page](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/b7265e52-d7f0-4616-aacb-2127122d7338)
+
+### 3.	Game Menu Page
+
+This page will first display the details of the character like day, character’s name, health, number of coins, and AP the player has for the day. Then, the page will show all the possible choices our players can perform throughout the entire game. This is the main menu page the players will be seeing quite frequently throughout the game. The player has a total of 6 options in the game. 
+
+•	[1] The Rusty Swordsmith
+
+•	[2] The Jester’s Joke Emporium
+
+•	[3] The Quirky Quill
+
+•	[4] Adventure
+
+•	[5] Embark
+
+•	[6] Next day
+
+The first 3 options are to allow the player to explore the different shops and cabins in the game. The 4th option is to allow the player to earn goal coins in the game. The 5th option is to let the player fight the final villain of the game. The last option is to allow the player to skip a day if they prefer not to perform any action.
+
