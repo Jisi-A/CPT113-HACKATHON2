@@ -86,7 +86,7 @@ o	NODE 12: Record if the player has received the Anti-Sorcerer Magic Book
 
 o	NODE 13: Record if the player has received the History Book
 
-o	NODE 14: Record if the player has 
+o	NODE 14: Record the number of hidden storylines the player has found
 
 o	NODE 15: Record the day the player is on.
 
