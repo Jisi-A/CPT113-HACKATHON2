@@ -140,3 +140,16 @@ The 4th option is to allow the player to earn goal coins in the game.
 The 5th option is to let the player fight the final villain of the game. 
 The last option is to allow the player to skip a day if they prefer not to perform any action.
 
+### 4. The Rusty Swordsmith Menu Page
+This page will allow the player to interact with the shopkeeper of the Rusty Swordsmith, Sir Grumblebeard. There are 3 options the player can choose.
+
+•	[1] Give me a rusty sword that can one-shot the evil sorcerer.
+
+•	[2] Why are you selling rusty swords?
+
+•	[3] Back to town
+
+The 1st option allows the player to receive the sword which can slay the evil sorcerer. The 2nd option allows the player to be curious and enquire about the mechanise sold by the swordsmith. 
+The 3rd option allows the player to return to town or the main menu page.  
+
+
