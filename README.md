@@ -135,5 +135,11 @@ This page will first display the details of the character like day, character’
 
 •	[6] Next day
 
-The first 3 options are to allow the player to explore the different shops and cabins in the game. The 4th option is to allow the player to earn goal coins in the game. The 5th option is to let the player fight the final villain of the game. The last option is to allow the player to skip a day if they prefer not to perform any action.
+The first 3 options are to allow the player to explore the different shops and cabins in the game. 
+
+The 4th option is to allow the player to earn goal coins in the game. 
+
+The 5th option is to let the player fight the final villain of the game. 
+
+The last option is to allow the player to skip a day if they prefer not to perform any action.
 
