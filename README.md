@@ -25,35 +25,35 @@ The player can load their previously saved game and continue their progress from
    
 The player can save their progress each time a day ends. The user will be given the option to save their progress for the day or they can choose not to save it. The concept of how the player’s progress is saved is by using the linked list. There are a total of 15 nodes in our linked list. The list below shows the variables that each of the nodes in the linked list holds.
 
-•	NODE 1: Player’s Health                 
+   •	NODE 1: Player’s Health                 
 
-•	NODE 2: isTalked_swordsmith;
+   •	NODE 2: isTalked_swordsmith;
 
-•	NODE 3: isTalked_jester;
+   •	NODE 3: isTalked_jester;
 
-•	NODE 4: isTalked_quirky
+   •	NODE 4: isTalked_quirky
 
-•	NODE 5: sorcerer slayer
+   •	NODE 5: sorcerer slayer
 
-•	NODE 6: coins
+   •	NODE 6: coins
 
-•	NODE 7: hidden smith
+   •	NODE 7: hidden smith
 
-•	NODE 8: greatsword
+   •	NODE 8: greatsword
 
-•	NODE 9: Hidden Jester
+   •	NODE 9: Hidden Jester
 
-•	NODE 10: shield
+   •	NODE 10: shield
 
-•	NODE 11: Bomb
+   •	NODE 11: Bomb
 
-•	NODE 12: Anti-Sorcerer Magic Book
+   •	NODE 12: Anti-Sorcerer Magic Book
 
-•	NODE 13: HistoryBook
+   •	NODE 13: HistoryBook
 
-•	NODE 14: Hidden
+   •	NODE 14: Hidden
 
-•	NODE 15: Day
+   •	NODE 15: Day
 
 
 Below is the explanation for each of the nodes in the linked list.
