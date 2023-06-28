@@ -100,7 +100,7 @@ However, our game has a limitation where the game can only save the newest progr
 
 Our game used multiple menu pages to create an interactive and fun gameplay session where the players can make their own choice to find the ending they deserved. The follorwing are a few examples of menus pages in our game
 
-## 1.	Opening Menu page
+### 1.	Opening Menu page
 
 This is the opening page the player will see upon starting our game. The function of this page is to give multiple options to the user on what they wish to do. There are 3 options the player can take.
 
@@ -113,7 +113,7 @@ This is the opening page the player will see upon starting our game. The functio
 
 ![Opening Menu Page](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/e429af83-f8e8-4cc9-a47b-76719b8f8f5c)
 
-## 2. Tutorial page
+### 2. Tutorial page
 
 This page will give a brief guideline of the quest in the game. And will introduce to you about the important elements of our game like action points and the time frame within which the player must complete the quest. This page also informs that you will be playing as the main character of our story, Sir Noodlebrain, a knight in the Kingdom of Chickidon. 
 
@@ -123,7 +123,7 @@ The game will prompt if the user wants to see the tutorial menu. If they do not 
 ![Tutorial page](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/b7265e52-d7f0-4616-aacb-2127122d7338)
 
 
-## 3.	Game's Main Menu Page
+### 3.	Game's Main Menu Page
 
 This page will first display the details of the character like day, character’s name, health, number of coins, and AP the player has for the day. Then, the page will show all the possible choices our players can perform throughout the entire game. This is the main menu page the players will be seeing quite frequently throughout the game. The player has a total of 6 options in the game. 
 
@@ -137,7 +137,7 @@ The 5th option is to let the player fight the final villain of the game.
 The last option is to allow the player to skip a day if they prefer not to perform any action.
 
 
-## 4. The Rusty Swordsmith Menu Page
+### 4. The Rusty Swordsmith Menu Page
 
 This page will allow the player to interact with the shopkeeper of the Rusty Swordsmith, Sir Grumblebeard. There are 3 options the player can choose.
 
@@ -151,7 +151,7 @@ The 1st option allows the player to receive the sword which can slay the evil so
 The 3rd option allows the player to return to town or the main menu page. 
 
 
-## 5. The Jester’s Joke Emporium Menu Page
+### 5. The Jester’s Joke Emporium Menu Page
 This page allows the player to explore the options available at this venue. There are 3 options the user can choose from.
 
 •	[1] Give me something that can one-shot the evil sorcerer.
@@ -163,7 +163,7 @@ This page allows the player to explore the options available at this venue. Ther
 The 1st option allows the player to receive a weapon that can defeat the evil sorcerer. The 2nd option allows the player to be curious and enquire about the reason why the Jester doesn’t perform. 
 The 3rd option allows the player to return to town or the main menu page.  
 
-## 6.	The Quirky Quill Menu Page
+### 6.	The Quirky Quill Menu Page
 This page will output the possible actions the player can perform on this location. The shop owner of Quirky Quill is Sir Wobblewand, a magician. There are 3 actions in this section.
 
 •	[1] Hand me one that can obliterate a 1000 sorcerer.
@@ -175,7 +175,7 @@ This page will output the possible actions the player can perform on this locati
 In 1st option, the player will receive an item called the anti-sorcerer magic book .
 The 2nd option the player can be curious and enquire about the peculiar reason why the Sir Wobblewand is covered in glitter. For the 3rd option, the player can return to the main menu page.
 
-## 7.	Boss Fighting Menu Page 
+### 7.	Boss Fighting Menu Page 
 In this section, the player will have an exciting one-to-one showdown with the great evil sorcerer. The player will be given multiple options to defeat the evil sorcerer. However, there is a catch. Depending on the conditions, and whether the player has fulfilled them, the players will be limited to only a selected number of choices. There are a total of 6 choices if the player succeeds in unlocking all of them.
 
 •	[1] Use Sorcerer Slayer
