@@ -124,7 +124,7 @@ The game will prompt if the user wants to see the tutorial menu. If they do not 
 This page will first display the details of the character like day, character’s name, health, number of coins, and AP the player has for the day. Then, the page will show all the possible choices our players can perform throughout the entire game. This is the main menu page the players will be seeing quite frequently throughout the game. The player has a total of 6 options in the game. 
 
 
-This page![Main Menu page](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/61c9b4e7-ed42-4aaa-9127-75c195f36762)
+![Main Menu page](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/61c9b4e7-ed42-4aaa-9127-75c195f36762)
 
 
 The first 3 options are to allow the player to explore the different shops and cabins in the game. 
@@ -134,7 +134,7 @@ The last option is to allow the player to skip a day if they prefer not to perfo
 
 ### 4. The Rusty Swordsmith Menu Page
 
- will allow the player to interact with the shopkeeper of the Rusty Swordsmith, Sir Grumblebeard. There are 3 options the player can choose.
+This page will allow the player to interact with the shopkeeper of the Rusty Swordsmith, Sir Grumblebeard. There are 3 options the player can choose.
 
 •	[1] Give me a rusty sword that can one-shot the evil sorcerer.
 
