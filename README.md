@@ -119,7 +119,7 @@ The game will prompt if the user wants to see the tutorial menu. If they do not 
 
 ![Tutorial page](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/b7265e52-d7f0-4616-aacb-2127122d7338)
 
-### 3.	Game Menu Page
+### 3.	Game's Main Menu Page
 
 This page will first display the details of the character like day, character’s name, health, number of coins, and AP the player has for the day. Then, the page will show all the possible choices our players can perform throughout the entire game. This is the main menu page the players will be seeing quite frequently throughout the game. The player has a total of 6 options in the game. 
 
@@ -143,6 +143,19 @@ This page will allow the player to interact with the shopkeeper of the Rusty Swo
 •	[3] Back to town
 
 The 1st option allows the player to receive the sword which can slay the evil sorcerer. The 2nd option allows the player to be curious and enquire about the mechanise sold by the swordsmith. 
+The 3rd option allows the player to return to town or the main menu page. 
+
+### 5. The Jester’s Joke Emporium Menu Page
+This page allows the player to explore the options available at this venue. There are 3 options the user can choose from.
+
+•	[1] Give me something that can one-shot the evil sorcerer.
+
+•	[2] Why you never make a show in the kingdom?
+
+•	[3] Back to town.
+
+The 1st option allows the player to receive a weapon that can defeat the evil sorcerer. The 2nd option allows the player to be curious and enquire about the reason why the Jester doesn’t perform. 
 The 3rd option allows the player to return to town or the main menu page.  
+
 
 
