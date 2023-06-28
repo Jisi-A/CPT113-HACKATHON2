@@ -57,22 +57,6 @@ The player can save their progress each time a day ends. The user will be given 
 
 
 Below is the explanation for each of the nodes in the linked list.
-1st Node	
-2nd Node	
-3rd Node	
-4th Node	
-5th Node	
-6th Node	
-7th Node	
-8th Node	
-9th Node	
-10th Node	
-11th Node	
-12th Node	
-13th Node	
-14th Node	
-15th Node	
-
 
 
 	1st Node stores the player’s health.
