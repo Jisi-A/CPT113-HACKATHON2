@@ -1,4 +1,4 @@
-# CPT113-HACKATHON2
+![Quills (1 option)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/b105b97b-46af-4f94-99fc-fba2a4ab3440)# CPT113-HACKATHON2
 ### Group 32
 
 # Group Members
@@ -292,6 +292,8 @@ We have utilized this concept within our program. This can be seen in the class 
 ### 7. (b) Jester's Joke Emporium (2 option)
 ![Jester (2 option)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/d9f9fec1-8932-43e9-b6ed-aca7b6d0372d)
 
+### 8. Quirky Quills (Main Dialogue)
+![Quills (Main Dialogue)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/4324d51d-2b9e-40a0-8474-15072ce50c7a)
 
-
+### 8. (a) Quirky Quills (1 option)
 
