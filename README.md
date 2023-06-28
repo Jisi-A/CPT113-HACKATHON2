@@ -163,7 +163,7 @@ This page allows the player to explore the options available at this venue. Ther
 The 1st option allows the player to receive a weapon that can defeat the evil sorcerer. The 2nd option allows the player to be curious and enquire about the reason why the Jester doesn’t perform. 
 The 3rd option allows the player to return to town or the main menu page.  
 
-### 6.	The Quirky Quill Menu Page
+## 6.	The Quirky Quill Menu Page
 This page will output the possible actions the player can perform on this location. The shop owner of Quirky Quill is Sir Wobblewand, a magician. There are 3 actions in this section.
 
 •	[1] Hand me one that can obliterate a 1000 sorcerer.
@@ -175,4 +175,20 @@ This page will output the possible actions the player can perform on this locati
 In 1st option, the player will receive an item called the anti-sorcerer magic book .
 The 2nd option the player can be curious and enquire about the peculiar reason why the Sir Wobblewand is covered in glitter. For the 3rd option, the player can return to the main menu page.
 
+## 7.	Boss Fighting Menu Page 
+In this section, the player will have an exciting one-to-one showdown with the great evil sorcerer. The player will be given multiple options to defeat the evil sorcerer. However, there is a catch. Depending on the conditions, and whether the player has fulfilled them, the players will be limited to only a selected number of choices. There are a total of 6 choices if the player succeeds in unlocking all of them.
+
+•	[1] Use Sorcerer Slayer
+
+•	[2] Use Witch -hunt Bomb
+
+•	[3] Use Anti-Sorcerer Magic Book
+
+•	[4] Pay 100000 gold coins
+
+•	[5] Battle!
+
+•	[6] Eat Princess Featherbottom together
+
+The first 3 options are to allow the player to use the weapons to defeat the evil sorcerer. The 4th option is to pay the ransom money of 100000 gold to free Princess Featherbottom, the chicken. The 5th option is to go to battle with the evil sorcerer and defeat him. The 6th option is the default option, where if the player is not able to unlock any of the options, they can only choose this last option. 
 
