@@ -323,4 +323,12 @@ In conclusion, the role of a linked list is essential to the progress of our gam
 ![Adventure](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/0bd40614-84c5-406e-83a8-eb46d527082c)
 
 ### 10. Embark
+![Embark](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/781fa820-50b0-475f-8363-2954e90c1319)
 
+### 11. (a) True Ending
+![True end](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/1cf035d5-1677-41a1-a692-d3ef327826a0)
+
+### 11. (b) Normal Ending
+![Normal End](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/81a34db1-d726-41b2-898a-2e3f9127d159)
+
+### 11. (b) Money Ending
