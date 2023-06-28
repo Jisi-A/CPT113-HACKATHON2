@@ -325,6 +325,8 @@ In conclusion, the role of a linked list is essential to the progress of our gam
 ### 10. Embark
 ![Embark](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/781fa820-50b0-475f-8363-2954e90c1319)
 
+#SPOILER ALERT!! (GAME ENDINGS)
+
 ### 11. (a) True Ending
 ![True end](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/1cf035d5-1677-41a1-a692-d3ef327826a0)
 
