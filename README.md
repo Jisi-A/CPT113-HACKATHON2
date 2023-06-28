@@ -25,7 +25,7 @@ The player can load their previously saved game and continue their progress from
    
 The player can save their progress each time a day ends. The user will be given the option to save their progress for the day or they can choose not to save it. The concept of how the player’s progress is saved is by using the linked list. There are a total of 15 nodes in our linked list. The list below shows the variables that each of the nodes in the linked list holds.
 
-•	NODE 1: Player’s Health                 - Stores the player’s health.
+•	NODE 1: Player’s Health                 
 
 •	NODE 2: isTalked_swordsmith;
 
