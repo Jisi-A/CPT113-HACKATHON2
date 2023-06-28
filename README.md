@@ -229,3 +229,8 @@ We have utilized this concept within our program. This can be seen in the class 
 # 5. How linked lists/stacks/queues play a role in your game.
 
 # 6. Screenshots of your game
+
+## 1.	Opening Menu Page
+![Opening Menu Page](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/7b618a06-9c33-4adf-9f8c-e709c4078348)
+
+
