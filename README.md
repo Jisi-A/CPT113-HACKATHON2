@@ -163,5 +163,16 @@ This page allows the player to explore the options available at this venue. Ther
 The 1st option allows the player to receive a weapon that can defeat the evil sorcerer. The 2nd option allows the player to be curious and enquire about the reason why the Jester doesn’t perform. 
 The 3rd option allows the player to return to town or the main menu page.  
 
+### 6.	The Quirky Quill Menu Page
+This page will output the possible actions the player can perform on this location. The shop owner of Quirky Quill is Sir Wobblewand, a magician. There are 3 actions in this section.
+
+•	[1] Hand me one that can obliterate a 1000 sorcerer.
+
+•	[2] Uhhh sorry, random question. Why do you look like you were caught in a glitter explosion?
+
+•	[3] Back to town.
+
+In 1st option, the player will receive an item called the anti-sorcerer magic book .
+The 2nd option the player can be curious and enquire about the peculiar reason why the Sir Wobblewand is covered in glitter. For the 3rd option, the player can return to the main menu page.
 
 
