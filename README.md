@@ -271,7 +271,8 @@ The third functionality of the linked list is the linked list will update all th
 ## (d) Display relevant information
 The fourth functionality of the linked list is the linked list will display all the relevant details about the player at the start of a new day or after an action is completed. For example, we can observe the amount of gold coins the player has earned, the day number, the name of the player, the Action Point (AP) left, and the current health the player has. 
 
-In conclusion, the role of a linked list is essential to the progress of our game as it stores the information needed to run the game properly. There are a total of 4 uses of linked lists in our game, namely saving the player’s progress, loading previous game progress, updating players information in the linked list, and lastly is displaying all the relevant details of the player at starting of game.
+# Conclusion
+In conclusion, the role of a linked list is essential to the progress of our game as it stores the information needed to run the game properly. There are a total of 4 uses of linked lists in our game, namely saving the player’s progress, loading previous game progress, updating players information in the linked list, and lastly is displaying all the relevant details of the player at starting of the game.
 
 
 # 6. Screenshots of your game
