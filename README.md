@@ -1,4 +1,4 @@
-# CPT113-HACKATHON2
+![Main Menu page](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/cfa00f1f-c018-4fde-97d2-4fc4e1a2220a)# CPT113-HACKATHON2
 ### Group 32
 
 Documentation Requirements
@@ -230,7 +230,19 @@ We have utilized this concept within our program. This can be seen in the class 
 
 # 6. Screenshots of your game
 
-## 1.	Opening Menu Page
+### 1.	Opening Menu Page
 ![Opening Menu Page](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/7b618a06-9c33-4adf-9f8c-e709c4078348)
+
+### 2.	Beginning narrative of Game
+![Beginning Narrative](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/778c6a85-b001-451f-a384-0e8fcc00a7be)
+
+### 3. Tutorial page
+![Tutorial pg](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/79c3d626-6ea0-428f-aa6f-b8fd3ec93897)
+
+### 4.	Game’s Main Menu Page
+![Main Menu page](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/fb7b613d-658b-4925-95e2-92ce1b096e01)
+
+### 5.	The Rusty Swordsmith (Main Dialogue)
+![Rusty (Main Dialogue)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/001fa532-cda5-4fb1-8393-cbc9818f0a61)
 
 
