@@ -59,34 +59,35 @@ The player can save their progress each time a day ends. The user will be given 
 Below is the explanation for each of the nodes in the linked list.
 
 
-	1st Node stores the player’s health.
+o	NODE 1: stores the player’s health.
 
-	2nd Node will record if the player has talked to the swordsmith before.
+o	NODE 2: Record if the player has talked to the swordsmith before.
 
-	3rd Node will record if the player has talked to the Jester before.
+o	NODE 3: Record if the player has talked to the Jester before.
 
-	4th Node will record if the player has talked to the Wizard before.
+o	NODE 4: Record if the player has talked to the Wizard before.
 
-	5th Node is to record if the player has received the sword, sorcerer slayer.
+o	NODE 5: Record if the player has received the sword, sorcerer slayer.
 
-	6th Node is to take note of the amount the coins the player has earned.
+o	NODE 6: Records of the amount the coins the player has earned.
 
-	7th Node will record if the player has unlocked the hidden storyline for Swordsmith
+o	NODE 7: Record if the player has unlocked the hidden storyline for Swordsmith
 
-	8th Node will record if the player has received the great sword
+o	NODE 8: Record if the player has received the great sword
 
-	9th Node will record if the player has unlocked the hidden storyline for Jester
+o	NODE 9: Record if the player has unlocked the hidden storyline for Jester
 
-	10th Node will record if the player has received the shield
+o	NODE 10: Record if the player has received the shield
 
-	11th Node will record if the player has received the Witch Hunt Bomb
+o	NODE 11: Record if the player has received the Witch Hunt Bomb
 
-	12th Node will record if the player has received the Anti-Sorcerer Magic Book
+o	NODE 12: Record if the player has received the Anti-Sorcerer Magic Book
 
-	13th Node will record if the player has received the History Book
+o	NODE 13: Record if the player has received the History Book
 
-	14th Node will record if the player has 
+o	NODE 14: Record if the player has 
 
-	15th Node will record the day the player is on.
+o	NODE 15: Record the day the player is on.
+
 
 
