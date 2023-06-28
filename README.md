@@ -97,7 +97,7 @@ However, our game has a limitation where the game can only save the newest progr
 
 
 ## (b)	Multiple Menu Pages 
-### 2.	Opening Menu page
+### 1.	Opening Menu page
 
 This is the opening page the player will see upon starting our game. The function of this page is to give multiple options to the user on what they wish to do. There are 3 options the player can take.
 
@@ -109,3 +109,12 @@ This is the opening page the player will see upon starting our game. The functio
 
 
 ![Opening Menu Page](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/e429af83-f8e8-4cc9-a47b-76719b8f8f5c)
+
+### 2. Tutorial page
+
+This page will give a brief guideline of the quest in the game. And will introduce to you about the important elements of our game like action points and the time frame within which the player must complete the quest. This page also informs that you will be playing as the main character of our story, Sir Noodlebrain, a knight in the Kingdom of Chickidon. 
+
+The game will prompt if the user wants to see the tutorial menu. If they do not wish to, they can skip if part. The diagram below shows the option to skip the tutorial menu.
+
+
+![Tutorial page](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/b7265e52-d7f0-4616-aacb-2127122d7338)
