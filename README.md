@@ -192,3 +192,31 @@ In this section, the player will have an exciting one-to-one showdown with the g
 
 The first 3 options are to allow the player to use the weapons to defeat the evil sorcerer. The 4th option is to pay the ransom money of 100000 gold to free Princess Featherbottom, the chicken. The 5th option is to go to battle with the evil sorcerer and defeat him. The 6th option is the default option, where if the player is not able to unlock any of the options, they can only choose this as their last option. 
 
+# 3. How to play the game
+
+# 4. How object-oriented concepts were used to develop your game.
+
+There a number of object-oriented concepts we have implemented in our programming. There are a total of 3 object-oriented concepts we have utilized.
+
+## (a)	Abstraction
+
+Abstraction is an essential object-oriented concept that has been applied in our program. The way that abstraction works is it allows the programmer to focus on simplifying the complex coding by breaking them down into smaller and more manageable components. 
+
+We have succeeded in using abstraction in our program by implementing the usage of classes and objects. A class can be viewed as a template or a rough guideline that defines the behavior of each object. It will basically encapsulate the attribute and the functionality that each object should have. 
+
+Examples of abstraction can be seen in the Class IntList and Class Game we have created in our program. In Class IntList, we defined all the characteristics of our linked list, each individual node, and the functions our linked list can perform. Functions of the linked list like appending a node, displaying a list and deleting a linked list. In Class Game, we define the attributes of the AP variable and other necessary functions of the game like startGame(), loadDay(), talkedJester(), adventure(), and embark(). These are a few examples of the functions define in this class. 
+
+##(b)	Encapsulation
+
+Encapsulation is one of the fundamental concepts of object-oriented programming. This concept allows for data privacy within a specific part of the program and provides a way for the programmer to easily modify the internal state of specific objects.
+
+The main idea of how the concept works is by ensuring when a lot of functions or methods are operating on that same piece of data, the functions are unable to directly manipulate the value. Meaning there is a certain boundary around the data that prevents external functions from directly accessing the data. This is achieved by coding well-defined getter and setter functions, which will allow indirect manipulation of the private variable.
+
+So, we have also implemented the usage of encapsulation within our program. An example of it can be seen in Class IntList. In this class, there are two private members defined, they are struct ListNode and pointer head. Since struct ListNode is a private member, it details are hidden from external functions. This function can only be manipulated and accessed through the member functions of the IntList class. 
+
+## (c)	Inheritance
+Another object-oriented concept we have implemented is the inheritance concept. The brief definition of this concept is the derived class will inherit the characteristic and functionality of the parent class. This establishes a hierarchical relationship between the two parent-child classes. 
+The derived or child class will inherit all the non-private attributes of the parent class. The inheritance concept is useful as it promotes code usability and reduces the need to type out the same code for another class. 
+
+We have utilized this concept within our program. This can be seen in the class game, where this class has inherited its properties from the parent class, class player. This means that Class game can utilized all the functions that has been defined in the class player. For example, the isEmpty(), displayList(), getHealth(), and the isTalked_swordsmith function.
+
