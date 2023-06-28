@@ -96,5 +96,15 @@ So, all this information will be recorded by the linked list when each day has c
 However, our game has a limitation where the game can only save the newest progress for the day only. The game will not be able to access the previous day's progress as it will be overwritten by the latest progress.  
 
 
+## (b)	Multiple Menu Pages 
+### 2.	Opening Menu page
+
+This is the opening page the player will see upon starting our game. The function of this page is to give multiple options to the user on what they wish to do. There are 3 options the player can take.
+
+•	1st option: Create new game
+
+•	2nd option: Load game
+
+•	3rd option: Quit game
 
 
