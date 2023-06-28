@@ -1,4 +1,4 @@
-![Quills (1 option)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/b105b97b-46af-4f94-99fc-fba2a4ab3440)# CPT113-HACKATHON2
+![Adventure](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/e469728c-dce9-407b-aabc-2012ea40dfde)# CPT113-HACKATHON2
 ### Group 32
 
 # Group Members
@@ -296,4 +296,13 @@ We have utilized this concept within our program. This can be seen in the class 
 ![Quills (Main Dialogue)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/4324d51d-2b9e-40a0-8474-15072ce50c7a)
 
 ### 8. (a) Quirky Quills (1 option)
+![Quills (1 option)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/b105b97b-46af-4f94-99fc-fba2a4ab3440)
+
+### 8. (b) Quirky Quills (2 option)
+![Quills (2 option)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/9f3ae31b-f863-4141-a6db-25a178ca1e16)
+
+### 9. Adventure 
+![Adventure](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/0bd40614-84c5-406e-83a8-eb46d527082c)
+
+### 10. Embark
 
