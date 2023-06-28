@@ -93,7 +93,7 @@ o	NODE 15: Record the day the player is on.
 
 So, all this information will be recorded by the linked list when each day has come to an end. The information for each of the nodes in the linked list will be written into a save.txt file. Thus, the player’s progress is saved. 
 
-However, our game has a limitation where the game can only save the newest progress for that day only. The game will not be able to access the previous days progress as it will be overwritten by the latest progress.  
+However, our game has a limitation where the game can only save the newest progress for the day only. The game will not be able to access the previous day's progress as it will be overwritten by the latest progress.  
 
 
 
