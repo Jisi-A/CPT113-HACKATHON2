@@ -194,9 +194,26 @@ The first 3 options are to allow the player to use the weapons to defeat the evi
 
 # 3. How to play the game
 
+The Misadventures of Sir Noodlebrain is a menu-based program-driven text-based game. In this game, the player is allowed to follow the actions listed in the menu to push the progress of the game. As Sir Noodlebrain, the player needs to talk with different people in the town of Kingdom Chickidon and try to find out the way to save Princess Featherbottom. The player could also go on an adventure and try to collect one million coins to pay the evil sorcerer. Every action is listed in the menu.\\
+
+![Main Menu page](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/fb7b613d-658b-4925-95e2-92ce1b096e01)
+
+But actions need to cost action point(AP)! Manage the use of AP wisely to avoid the bad end.
+
+![AP](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/116088800/c83dbc9c-6f02-4aba-a2e8-31a66f690929)
+
+Talking to many people will lead the player to a mystery storyline hidden under the kingdom. As the story progresses, a conspiracy buried in the long river of history will slowly emerge. 
+
+![hidden](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/116088800/a7920f44-d4ea-44c7-8e0e-1d91184ebf7a)
+
+The flow of the story is in your hand. Do not scare to make mistakes in the game, the player is allowed and encouraged to play the game several times. Try to explore as many endings as you could!
+
+![repeat](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/116088800/d7013134-95f0-45d3-b4c0-ed672d459d54)
+
+
 # 4. How object-oriented concepts were used to develop your game.
 
-There a number of object-oriented concepts we have implemented in our programming. There are a total of 3 object-oriented concepts we have utilized.
+There are a number of object-oriented concepts we have implemented in our programming. There are a total of 3 object-oriented concepts we have utilized.
 
 ## (a)	Abstraction
 
