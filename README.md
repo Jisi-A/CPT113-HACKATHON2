@@ -112,6 +112,7 @@ Players can exit the game at the start of the game and the ending of boss fight.
 
 The game has an input validation code that will check whether the player has inputted the right integer into the input section. if the input is invalid, the program will issue an error message displaying that is not a valid input.
 
+![Input Validation](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/e1dc189d-f5aa-4827-b404-c928516983e2)
 
 
 
