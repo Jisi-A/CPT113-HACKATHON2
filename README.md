@@ -104,6 +104,9 @@ So, all this information will be recorded by the linked list when each day has c
 
 However, our game has a limitation where the game can only save the newest progress for the day only. The game will not be able to access the previous day's progress as it will be overwritten by the latest progress.  
 
+### 3. Quit/Exit Game
+
+Players can exit the game at the start of the game and the ending of boss fight. The game will prompt the user whether do they want to exit the game or continue another round.
 
 ## (b)	Multiple Menu Pages 
 
