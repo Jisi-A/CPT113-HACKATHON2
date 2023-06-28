@@ -108,3 +108,4 @@ This is the opening page the player will see upon starting our game. The functio
 •	3rd option: Quit game
 
 
+![Opening Menu Page](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/e429af83-f8e8-4cc9-a47b-76719b8f8f5c)
