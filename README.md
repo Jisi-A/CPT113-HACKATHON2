@@ -206,7 +206,7 @@ We have succeeded in using abstraction in our program by implementing the usage 
 
 Examples of abstraction can be seen in the Class IntList and Class Game we have created in our program. In Class IntList, we defined all the characteristics of our linked list, each individual node, and the functions our linked list can perform. Functions of the linked list like appending a node, displaying a list and deleting a linked list. In Class Game, we define the attributes of the AP variable and other necessary functions of the game like startGame(), loadDay(), talkedJester(), adventure(), and embark(). These are a few examples of the functions define in this class. 
 
-
+![Abstraction concept](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/d5501f60-1acf-4643-801c-9bc7f3a0897a)
 
 ## (b)	Encapsulation
 
