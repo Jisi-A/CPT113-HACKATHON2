@@ -20,10 +20,12 @@ There are numerous functionalities our game provides.
 There are numerous functionalities our game provides.
 
 (a)	Gameplay Mechanics
-1.	Load game
+ ## 1.	Load game
+   
 The player can load their previously saved game and continue their progress from the day they have stopped. The concept of how the player’s progress is loaded back into the game is by using a linked list. The program will first read back the previously saved information in a save.txt file. Then, the information from the save.txt file will be passed back to the 15-node linked list to be stored. The linked list now contains all the previous information, and the player is all set to continue the game.
 
-2.	Saving game
+ ## 2.	Saving game
+   
 The player can save their progress each time a day ends. The user will be given the option to save their progress for the day or they can choose not to save it. The concept of how the player’s progress is saved is by using the linked list. There are a total of 15 nodes in our linked list. The list below shows the variables that each of the nodes in the linked list holds.
 
 •	NODE 1: Player’s Health
