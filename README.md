@@ -220,3 +220,5 @@ The derived or child class will inherit all the non-private attributes of the pa
 
 We have utilized this concept within our program. This can be seen in the class game, where this class has inherited its properties from the parent class, class player. This means that Class game can utilized all the functions that has been defined in the class player. For example, the isEmpty(), displayList(), getHealth(), and the isTalked_swordsmith function.
 
+![Inheritance concept](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/acdb004d-3e04-497e-b3e7-af1eb69b550e)
+
