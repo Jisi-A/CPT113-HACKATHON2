@@ -337,3 +337,8 @@ In conclusion, the role of a linked list is essential to the progress of our gam
 ### 11. (d) Bad Ending
 ![Bad Ending](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/74c662f6-ea8e-41bd-885d-c100223501c8)
 
+
+
+# Game Guidance Tree
+
+![Tree](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/116088800/31eb1dea-be75-4406-b7a2-d9a79f056ab3)
