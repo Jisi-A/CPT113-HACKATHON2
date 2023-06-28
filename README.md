@@ -331,4 +331,9 @@ In conclusion, the role of a linked list is essential to the progress of our gam
 ### 11. (b) Normal Ending
 ![Normal End](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/81a34db1-d726-41b2-898a-2e3f9127d159)
 
-### 11. (b) Money Ending
+### 11. (c) Money Ending
+![Money Ending](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/07305254-bd41-43dc-8afb-d687bccdc64a)
+
+### 11. (d) Bad Ending
+![Bad Ending](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/74c662f6-ea8e-41bd-885d-c100223501c8)
+
