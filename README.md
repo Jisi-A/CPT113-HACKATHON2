@@ -59,6 +59,7 @@ The player can save their progress each time a day ends. The user will be given 
 Below is the explanation for each of the nodes in the linked list.
 
 
+
 o	NODE 1: stores the player’s health.
 
 o	NODE 2: Record if the player has talked to the swordsmith before.
