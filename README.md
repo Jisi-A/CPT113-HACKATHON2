@@ -1,7 +1,16 @@
 # CPT113-HACKATHON2
 ### Group 32
 
-Documentation Requirements
+# Group Members
+
+LAI YICHENG 163729
+LEE YING SHEN 163792
+BERNADETTE LEE PEI CHEN 163517
+
+# Youtube Demo Video
+
+https://youtu.be/znhad49yS7w
+
 # 1.	Game Description 
 
 Get ready to dive into a world full of excitement and exhilarating adventure! Introducing our group’s game project: “The Misadventures of Sir Noodlebrain” It’s a fun and hilarious game set in the medieval period of the year 600 AD in the Kingdom of Chickidon. 
