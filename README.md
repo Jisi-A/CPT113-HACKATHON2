@@ -2,7 +2,7 @@
 ### Group 32
 
 Documentation Requirements
-### 1.	Description of Game
+## 1.	Description of Game
 
 Get ready to dive into a world full of excitement and exhilarating adventure! Introducing our group’s game project: “The Misadventures of Sir Noodlebrain” It’s a fun and hilarious game set in the medieval period of the year 600 AD in the Kingdom of Chickidon. 
 
