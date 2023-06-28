@@ -97,6 +97,9 @@ However, our game has a limitation where the game can only save the newest progr
 
 
 ## (b)	Multiple Menu Pages 
+
+Our game used multiple menu pages to create an interactive and fun gameplay session where the players can make their own choice to find the ending they deserved. The follorwing are a few examples of menus pages in our game
+
 ## 1.	Opening Menu page
 
 This is the opening page the player will see upon starting our game. The function of this page is to give multiple options to the user on what they wish to do. There are 3 options the player can take.
