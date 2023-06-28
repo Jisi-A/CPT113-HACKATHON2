@@ -273,7 +273,7 @@ We have implemented the usage of a dynamic linked list in our game. Our game uti
 ## (a) Saved Game Progress
 The first functionality of the linked lists is it allows the player to be able to save their game’s progress. When the player has finished one full day, the game will give the player the option to save their game progress. The role of the linked list is it will write all the information gathered during the game into a save.txt file. There are a total of 15 nodes which will store all the information of the player like the health, coins, day, sorcerer slayer item status, shield item status, bomb item status, anti-sorcerer magic book status, isTalked_quirky status, isTalked jester status, isTalked_swordsmith status, hidden smith status, shield status, number unlocked hidden story, return status if the player has talked to swordsmith and return status if the player has ever talked to jester before.
 
-## (b) Load Prevous Game
+## (b) Load Previous Game
 The second functionality of the linked list is it enables the players to load their progress on the day where they had previously stopped. The program will read the save.txt file, and all the information will be appended back inside the linked list. The linked list now contains the player’s previous progress information, and the player is all set to continue playing the game. 
 
 ## (c) Update information in nodes
