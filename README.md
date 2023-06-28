@@ -259,12 +259,16 @@ We have utilized this concept within our program. This can be seen in the class 
 
 We have implemented the usage of a dynamic linked list in our game. Our game utilizes the functionalities of a linked list in our program.
 
+## (a) Saved Game Progress
 The first functionality of the linked lists is it allows the player to be able to save their game’s progress. When the player has finished one full day, the game will give the player the option to save their game progress. The role of the linked list is it will write all the information gathered during the game into a save.txt file. There are a total of 15 nodes which will store all the information of the player like the health, coins, day, sorcerer slayer item status, shield item status, bomb item status, anti-sorcerer magic book status, isTalked_quirky status, isTalked jester status, isTalked_swordsmith status, hidden smith status, shield status, number unlocked hidden story, return status if the player has talked to swordsmith and return status if the player has ever talked to jester before.
 
+## (b) Load Prevous Game
 The second functionality of the linked list is it enables the players to load their progress on the day where they had previously stopped. The program will read the save.txt file, and all the information will be appended back inside the linked list. The linked list now contains the player’s previous progress information, and the player is all set to continue playing the game. 
 
+## (c) Update information in nodes
 The third functionality of the linked list is the linked list will update all the information gather during the game into the respective nodes. For example, if the player has gone on an adventure and has an AP value of 5. The gold coins the player earns would have been 500 000. This information will be updated by the linked list at the end of the day when the game is saved. 
 
+## (d) Display relevant information
 The fourth functionality of the linked list is the linked list will display all the relevant details about the player at the start of a new day or after an action is completed. For example, we can observe the amount of gold coins the player has earned, the day number, the name of the player, the Action Point (AP) left, and the current health the player has. 
 
 In conclusion, the role of a linked list is essential to the progress of our game as it stores the information needed to run the game properly. There are a total of 4 uses of linked lists in our game, namely saving the player’s progress, loading previous game progress, updating players information in the linked list, and lastly is displaying all the relevant details of the player at starting of game.
