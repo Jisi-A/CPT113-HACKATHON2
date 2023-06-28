@@ -353,4 +353,5 @@ In conclusion, the role of a linked list is essential to the progress of our gam
 
 # Game Guidance Tree
 
-![Tree](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/116088800/31eb1dea-be75-4406-b7a2-d9a79f056ab3)
+![Tree](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/116088800/79996663-bb12-4e71-b5db-98c657510cc8)
+
