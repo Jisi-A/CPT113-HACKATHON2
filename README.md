@@ -190,5 +190,5 @@ In this section, the player will have an exciting one-to-one showdown with the g
 
 •	[6] Eat Princess Featherbottom together
 
-The first 3 options are to allow the player to use the weapons to defeat the evil sorcerer. The 4th option is to pay the ransom money of 100000 gold to free Princess Featherbottom, the chicken. The 5th option is to go to battle with the evil sorcerer and defeat him. The 6th option is the default option, where if the player is not able to unlock any of the options, they can only choose this last option. 
+The first 3 options are to allow the player to use the weapons to defeat the evil sorcerer. The 4th option is to pay the ransom money of 100000 gold to free Princess Featherbottom, the chicken. The 5th option is to go to battle with the evil sorcerer and defeat him. The 6th option is the default option, where if the player is not able to unlock any of the options, they can only choose this as their last option. 
 
