@@ -289,67 +289,66 @@ In conclusion, the role of a linked list is essential to the progress of our gam
 # 6. Screenshots of your game
 
 ### 1.	Opening Menu Page
-![Opening Menu Page](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/7b618a06-9c33-4adf-9f8c-e709c4078348)
+![Opening Menu Page](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/dc50e3ff-d2dc-4c6b-a8ce-c1fee253ccb7)
 
 ### 2.	Beginning narrative of Game
-![Beginning Narrative](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/778c6a85-b001-451f-a384-0e8fcc00a7be)
+![Beginning Narrative](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/a04bf10c-aba0-4739-b70b-77e98250e3d9)
 
 ### 3. Tutorial page
-![Tutorial pg](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/79c3d626-6ea0-428f-aa6f-b8fd3ec93897)
+![Tutorial pg](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/422e77c5-a597-47c4-b474-e59dd1ff54c6)
 
 ### 4.	Game’s Main Menu Page
-![Main Menu page](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/fb7b613d-658b-4925-95e2-92ce1b096e01)
+![Main Menu page](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/d8b1c56a-9d3b-435c-ae27-443bc3aa10e2)
 
 ### 5.	The Rusty Swordsmith (Main Dialogue)
-![Rusty (Main Dialogue)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/001fa532-cda5-4fb1-8393-cbc9818f0a61)
+![Rusty (Main Dialogue)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/59bafc90-faaa-4e55-b5ff-22270363edde)
 
 ### 5.	(a) The Rusty Swordsmith (1 option) 
-![Rusty (1 option)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/eea5b9b6-f577-4822-8420-9388d508b197)
+![Rusty (1 option)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/1dda76fc-2c38-4a4f-884c-218bdd10390c)
 
 ### 5.	(b) The Rusty Swordsmith (2 option)
-![Rusty (2 option)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/ddac8c94-3591-487c-bd37-bd583a04eeff)
+![Rusty (2 option)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/8e369e74-b16d-49f4-a8b4-e94328542e94)
 
 ### 6.	Saving Game Progress
-![Saving game progress](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/7b40aee7-a914-4f6d-9e62-2052d3dbb710)
+![Saving game progress](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/2aa51f7a-0f99-41c3-9f1f-17409d3a6f4b)
 
 ### 7.	The Jester's Joke Emporium (Main Dialogue)
-![Jester (Main Dialogue)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/daf60c11-77e2-4472-b5db-09ea8fb2eef5)
+![Jester (Main Dialogue)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/36e954b6-4ef8-457b-90b5-5a4171ee2dc9)
 
 ### 7.	(a) Jester's Joke Emporium (1 option)
-![Jester (1 option)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/32f086b6-fe42-4da8-a125-b398caba9956)
+![Jester (1 option)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/a05d4f89-3620-4190-a54a-e9af0f5ebbed)
 
 ### 7. (b) Jester's Joke Emporium (2 option)
-![Jester (2 option)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/d9f9fec1-8932-43e9-b6ed-aca7b6d0372d)
+![Jester (2 option)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/32251073-adf7-44b1-ba55-a3f9e904ff03)
 
 ### 8. Quirky Quills (Main Dialogue)
-![Quills (Main Dialogue)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/4324d51d-2b9e-40a0-8474-15072ce50c7a)
+![Quills (Main Dialogue)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/bea3d849-357a-4c52-8b04-2f7290d23fac)
 
 ### 8. (a) Quirky Quills (1 option)
-![Quills (1 option)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/b105b97b-46af-4f94-99fc-fba2a4ab3440)
+![Quills (1 option)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/bc53cc56-e438-48d5-a616-890abe40dacf)
 
 ### 8. (b) Quirky Quills (2 option)
-![Quills (2 option)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/9f3ae31b-f863-4141-a6db-25a178ca1e16)
+![Quills (2 option)](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/9a40759f-34c8-4a18-9760-81b4e09d95f2)
 
 ### 9. Adventure 
-![Adventure](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/0bd40614-84c5-406e-83a8-eb46d527082c)
+![Adventure](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/36d67cd2-61d4-4c82-9f8d-efd303b7879a)
 
 ### 10. Embark
-![Embark](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/781fa820-50b0-475f-8363-2954e90c1319)
+![Embark](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/8e06d042-047d-4456-ad3a-90d3149b61b5)
 
 # SPOILER ALERT!! (GAME ENDINGS)
 
 ### 11. (a) True Ending
-![True end](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/1cf035d5-1677-41a1-a692-d3ef327826a0)
+![True end](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/ed8a7ad9-957a-4cc3-a014-81d8bb2a75b0)
 
 ### 11. (b) Normal Ending
-![Normal End](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/81a34db1-d726-41b2-898a-2e3f9127d159)
+![Normal End](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/ec51b1e5-d955-46fc-9778-b429eb3d317f)
 
 ### 11. (c) Money Ending
-![Money Ending](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/07305254-bd41-43dc-8afb-d687bccdc64a)
+![Money Ending](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/6b6918b1-309d-455f-9d0a-84124deed1a8)
 
 ### 11. (d) Bad Ending
-![Bad Ending](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/74c662f6-ea8e-41bd-885d-c100223501c8)
-
+![Bad Ending](https://github.com/Jisi-A/CPT113-HACKATHON2/assets/117000781/0547f9a2-26ce-4e45-be37-8d8891fe4172)
 
 
 # Game Guidance Tree
